@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cascada icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2f4f8a"/>
+      <stop offset="100%" stop-color="#5f93ec"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#g)"/>
+  <rect x="12" y="14" width="16" height="7" rx="2" fill="#eaf5ff"/>
+  <rect x="22" y="24" width="16" height="7" rx="2" fill="#d8ecff"/>
+  <rect x="32" y="34" width="16" height="7" rx="2" fill="#c6e4ff"/>
+  <rect x="42" y="44" width="10" height="7" rx="2" fill="#b4dcff"/>
+  <path d="M26 21l3 3-3 3M36 31l3 3-3 3M46 41l2 3-2 3" fill="none" stroke="#eaf5ff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
